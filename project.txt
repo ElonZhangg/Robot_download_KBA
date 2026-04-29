@@ -1,0 +1,8 @@
+project/
+│
+├── config.py              # 配置文件（路径、等待时间、预定义选择器）
+├── locator_helper.py      # 智能元素定位器（支持手动定位并记住选择器）
+├── download_monitor.py    # 下载文件监控工具
+├── main.py                # 主程序
+├── selectors.json         # 动态保存的元素选择器（自动生成）
+└── requirements.txt       # 依赖库列表

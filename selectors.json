@@ -1,0 +1,5 @@
+{
+  "username": "//*[contains(@class, 'cdk-virtual-scroll-content-wrapper')]/div[45]/div[1]/table/tbody/tr/td[2]/div",
+  "password": "//*[contains(@class, 'cdk-virtual-scroll-content-wrapper')]/div[45]/div[1]/table/tbody/tr/td[2]/div",
+  "login_button": "//*[contains(@class, 'cdk-virtual-scroll-content-wrapper')]/div[45]/div[1]/table/tbody/tr/td[2]/div"
+}

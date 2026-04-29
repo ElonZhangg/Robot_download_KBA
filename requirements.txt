@@ -1,0 +1,4 @@
+selenium>=4.8.0
+openpyxl>=3.1.0
+pyautogui>=0.9.54
+pynput>=1.7.6  # 可选，用于热键监听（本程序未使用，但可备）
